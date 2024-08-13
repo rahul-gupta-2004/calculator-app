@@ -48,3 +48,7 @@ This is a basic calculator application built using Flutter. It features a modern
 * **Backspace (⌫):** Deletes the last character in the current input.
 * **History:** View previous calculations by tapping the history icon in the top right corner. You can clear all history from this screen as well.
 * **Arithmetic Operations:** Supports addition (+), subtraction (-), multiplication (×), and division (÷).
+
+### UI Design
+
+For a preview of the UI design, check out the [design on Figma].(https://www.figma.com/proto/EMtNs3em3xoi6XJ83ZaChl/ios-calculator-design?node-id=0-1&t=81uuAFmhPQnz6EHL-1)
