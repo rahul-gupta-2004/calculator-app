@@ -51,4 +51,5 @@ This is a basic calculator application built using Flutter. It features a modern
 
 ### UI Design
 
-For a preview of the UI design, check out the [design on Figma].(https://www.figma.com/proto/EMtNs3em3xoi6XJ83ZaChl/ios-calculator-design?node-id=0-1&t=81uuAFmhPQnz6EHL-1)
+For a preview of the UI design, check out the [design on Figma](https://www.figma.com/proto/EMtNs3em3xoi6XJ83ZaChl/ios-calculator-design?node-id=0-1&t=81uuAFmhPQnz6EHL-1).
+
